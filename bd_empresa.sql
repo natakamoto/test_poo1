@@ -68,9 +68,7 @@ INSERT INTO trabajador VALUES(NULL,'Josefina Aguilera', '33', 'f');
 INSERT INTO trabajador VALUES(NULL,'Oswaldo Brito', '70', 'm');
 INSERT INTO trabajador VALUES(NULL,'Alexandra Núñez', '30', 'f');
 INSERT INTO trabajador VALUES(NULL,'Arnoldo Covarrubias', '49', 'm');
-INSERT INTO trabajador VALUES(NULL,'Pablo Castro','25', 'm');
-INSERT INTO trabajador VALUES(NULL,'Javiera Garcia','27', 'f');
-INSERT INTO trabajador VALUES(NULL,'Elizabet Gonzales','29', 'f');
+
 
 
 INSERT INTO departamento VALUES(NULL, 'Departamento de Recursos Humanos')
